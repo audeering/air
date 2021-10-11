@@ -2,6 +2,12 @@ Changelog
 =========
 
 
+Version 1.4.1 (2021/10/11)
+--------------------------
+
+* Fxied: name of azimuth column in brir table
+
+
 Version 1.4.0 (2021/08/17)
 --------------------------
 
