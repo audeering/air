@@ -1,5 +1,9 @@
 # air
 
+For further publications of `air`, please go to https://github.com/audeering/datasets/tree/main/datasets/air
+
+---
+
 This project holds code
 to convert the Aachen Impulse Response ([air]) dataset
 to [audformat]
